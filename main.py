@@ -1,2 +1,1 @@
-print("Hello girl")
-
+print("Hey girl")
