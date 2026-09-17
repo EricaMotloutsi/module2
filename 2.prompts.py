@@ -31,3 +31,4 @@ prompt = f"""Summarize the following text into two concise bullet points:
 
 response = get_response(prompt)
 print(response)
+
